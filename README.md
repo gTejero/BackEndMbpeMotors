@@ -6,6 +6,7 @@ O back end foi desenvolvido inteiramente utilizando à linguagem de programaçã
 ## Endpoints da API:
 
 Retorna os carros cadastrados na aplicação: /loja/carros/
+
 Retorna os clientes cadastrados na aplicação: /loja/clientes/
 
 Código disponibilizado dentro do code spaces.
